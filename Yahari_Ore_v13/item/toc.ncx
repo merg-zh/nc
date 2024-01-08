@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head><meta name="dtb:uid" content="4660fa35-ad7b-407c-8e0e-733ff4a3b9d2"/></head>
+    <docTitle><text>やはり俺の青春ラブコメはまちがっている。13</text></docTitle>
+    <navMap>
+        <navPoint>
+            <navLabel><text>表紙</text></navLabel>
+            <content src="xhtml/p-0001.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0009.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>① しみじみと、平塚静はいつかの昔を懐かしむ。</text></navLabel>
+            <content src="xhtml/p-0010.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>② どうしても、一色いろはには確かめたいことがある。</text></navLabel>
+            <content src="xhtml/p-0013.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0014.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>③ 最後まで、由比ヶ浜結衣は見守り続ける。</text></navLabel>
+            <content src="xhtml/p-0017.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0020.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>④ あらためて、比企谷八幡はかたりかける。</text></navLabel>
+            <content src="xhtml/p-0021.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>⑤ いつともしれず、エンドロールは流れ始める。</text></navLabel>
+            <content src="xhtml/p-0022.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0025.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>⑥ 人知れず、葉山隼人は悔いている。</text></navLabel>
+            <content src="xhtml/p-0026.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0027.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>⑦ レンズ越しに、海老名姫菜が見る風景は。</text></navLabel>
+            <content src="xhtml/p-0028.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0033.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>⑧ せめて、もうまちがえたくないと願いながら。</text></navLabel>
+            <content src="xhtml/p-0034.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>Interlude…</text></navLabel>
+            <content src="xhtml/p-0035.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>奥付</text></navLabel>
+            <content src="xhtml/p-0037.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
